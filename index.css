@@ -25,6 +25,17 @@
     padding: 0.7rem;
     margin: 0.5rem;
 }
+
+.aljaa h2, h3, h4, li{
+padding-bottom: 10px;
+text-align: left;
+}
+
+.aljaa ul{
+    padding-left: 40px;
+}
+
+
 .main-container{ 
     background-color: rgb(167, 235, 235);
 }
