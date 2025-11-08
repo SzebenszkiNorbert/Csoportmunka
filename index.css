@@ -6,10 +6,35 @@
     margin: auto;
 }
 
+.menu-card{
+    text-align: center;
+    margin: 0.8rem;
+    padding: 0.8rem;
+}
+.div-hobby-img{
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+    text-align: center;
+    padding: 0.3rem;
+    margin: 0.3rem;
+}
 
-
+.aljaa{
+    text-align: center;
+    padding: 0.7rem;
+    margin: 0.5rem;
+}
 .main-container{ 
     background-color: rgb(167, 235, 235);
+}
+
+.main{
+    background-color: rgb(233, 225, 150);
+   
+}
+.main h1{
+    background-color: rgb(255, 200, 61);
 }
 
 h1{
@@ -71,6 +96,15 @@ a:hover{
     grid-template-columns: repeat(2, 1fr);
 }
 
+.jatekfejle{
+    display: grid;
+
+}
+.jatekfejle img{
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+}
 .grid-img{
     max-width: 800px;
     display: grid;
