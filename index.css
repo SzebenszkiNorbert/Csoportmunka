@@ -43,6 +43,10 @@ text-align: left;
     padding-left: 30px;
 }
 
+.ajtekfejle h2{
+    padding-bottom: 10px;
+}
+
 .main-container{ 
     background-color: rgb(167, 235, 235);
 }
